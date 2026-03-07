@@ -1,0 +1,18 @@
+:root {
+--font: "Open Sans", sans-serif;
+--primary-color: rgba(254, 114, 76, 1);
+--primary-hover-color: rgb(248, 71, 22);
+--text-color: #000000;
+--text-secondary-color: rgba(158, 161, 177, 1);
+--white-color: #FFFFFF;
+--separator-color: rgba(212, 214, 224, 1);
+}
+
+body {  
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+}
+
+.form {
+  display: flex;
+}

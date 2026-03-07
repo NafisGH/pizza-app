@@ -1,0 +1,23 @@
+.input {
+       font-style: Regular;
+    font-size: 17px;
+    font-weight: 400;
+    color: var(--text-color);
+    box-sizing: border-box;
+    border: 1px solid rgba(238, 238, 238, 1);
+    border-radius: 10px;
+    box-shadow: 15px 20px 45px 0px rgba(233, 233, 233, 0.25);
+    padding: 20px;
+  
+}
+
+.label {
+    color: var();
+    font-family: Open Sans;
+    font-style: Regular;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 23px;
+    letter-spacing: 0%;
+    text-align: left;
+}
