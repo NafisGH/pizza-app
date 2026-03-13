@@ -1,7 +1,12 @@
+import Headling from '../../Headling/Headling';
 
 function Cart() {
 	return (
-		<div>Cart</div>
+		<>
+			<Headling>Корзина</Headling>
+			<div>Cart</div>
+		</>
+		
 	);
 }
 
